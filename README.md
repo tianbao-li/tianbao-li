@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Tianbao
-- 
-- I am currently a Ph.D. candidate in Tianjin University.
+👋 Hi, I’m Tianbao, I am currently a Ph.D. candidate in Tianjin University.
 
 
 
